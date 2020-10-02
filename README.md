@@ -1,12 +1,10 @@
-# Team: FreshlyBuilt 
-# PSID: NM394
-**PS : To develop AI/ML-based software to identify/analyze:**
+## ATHARVA : Autoregressive Trend analysis & Hypercritical Air pollution Ranging & Visualisation Application
+
+**Aim : To develop AI/ML-based software to identify/analyze:**
       **1. Location of hot spots.
        2. The long-term occurrence of hot spots and changes.**
 
 <img src=https://github.com/pandafy/NM394_FreshlyBuilt/blob/master/Images/logo2.svg height=130px width=450px>
-
-## ATHARVA : Autoregressive Trend analysis & Hypercritical Air pollution Ranging & Visualisation Application
 
 We have developed ATHARVA which is a user friendly Web application that can be used by common people to gain the knowledge about hotspots of India and their changes.
 
@@ -56,19 +54,16 @@ knex seed:run
 npm run dev
 ```
 
-## Updates for each mentoring & evaluation round
+## Updates on project till now
 
-### 1st mentoring & evaluation round:
- 
- * Fetched the sentinel-5p data 
- * Performed data mining and data preprocessing
- * Plotted Hotspots district-wise using spatial auto-correlation
- 
-### 2nd mentoring round:
- 
- * Analysed the movement of Hotspots
- * Plotted backward trajectory by using metrelogical data set 
- * Depicted the shifts in hotspot over a period of time .
+ * Fetched the sentinel-5p data. 
+ * Performed data mining and data preprocessing.
+ * Plotted Hotspots district-wise using spatial auto-correlation.
+ * Analysed the movement of Hotspots.
+ * Plotted backward trajectory by using metrelogical dataset. 
+ * Depicted the shifts in hotspot over a period of time.
+ * Trend analysis at each hotspot for concentration of every pollutant gas.
+ * Multiple Heatmap plotted using MapBox for better visualization.
  
  
  ## Tools and Technologies used 
